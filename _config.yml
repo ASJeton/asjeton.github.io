@@ -1,0 +1,5 @@
+title: Jeton-Klassenvorschrift
+description: Klassenvorschrift der nationalen Jeton-Klasse
+
+plugins:
+  - jekyll-redirect-from
